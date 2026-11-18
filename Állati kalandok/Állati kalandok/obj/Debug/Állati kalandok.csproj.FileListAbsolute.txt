@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\bin\Debug\Állati kalandok.exe.config
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\bin\Debug\Állati kalandok.exe
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\bin\Debug\Állati kalandok.pdb
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\obj\Debug\Állati kalandok.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\obj\Debug\Állati kalandok.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\obj\Debug\Állati kalandok.exe
+C:\Users\Asus\source\repos\Állati kalandok\Állati kalandok\obj\Debug\Állati kalandok.pdb
